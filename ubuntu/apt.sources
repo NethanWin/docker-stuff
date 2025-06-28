@@ -1,0 +1,5 @@
+Types: deb
+URIs: https://<host url>/repository/apt-24/
+Suites: noble
+Components: main
+Signed-By: /etc/apt/trusted.gpg.d/damn
